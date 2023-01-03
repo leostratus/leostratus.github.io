@@ -1,8 +1,11 @@
-/*
-	Dimension by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+/* Yeah, okay, bold move shipping a personal website as a developer using jQuery in 2023.
+ * Roast me if that will bring you joy, idc
+ * Here's the thing - I don't care if jQuery isn't popular anymore
+ * I keep up with jQuery as much as vanilla JS because it is EVERYWHERE
+ * and you never know when you're going to be working on a web property that
+ * somebody else built, so you have to keep those skills fresh.
+ * - Leo
+ */
 
 (function($) {
 
